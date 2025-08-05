@@ -19,3 +19,8 @@ python-programs/
 ├── Matplotlib_Visualization.ipynb          # Plotting with matplotlib
 ├── Numpy_Basics_Programs.ipynb             # NumPy arrays and operations
 ├── Pandas_Basics_pd_.ipynb                 # Intro to Pandas: Series and DataFrames
+
+## 👨‍💻 Author
+
+**Satyam9196**  
+GitHub: [@satyam9196](https://github.com/satyam9196)
